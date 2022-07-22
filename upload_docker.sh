@@ -6,10 +6,14 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
+dockerpath=paxtor2/machine-learning-microservice:latest
 
 # Step 2:  
 # Authenticate & tag
+docker login --username paxtor2
+docker tag machine-learning-microservice $dockerpath
 echo "Docker ID and Image: $dockerpath"
 
 # Step 3:
 # Push image to a docker repository
+docker push $dockerpath
