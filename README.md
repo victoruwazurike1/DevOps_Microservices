@@ -1,4 +1,3 @@
-<include a CircleCI status badge, here>
 [![<victoruwazurike1>](https://circleci.com/gh/victoruwazurike1/DevOps-Microservices.svg?style=svg)](https://github.com/MahaAmin/DevOps-Microservices)
 
 ## Project Overview
