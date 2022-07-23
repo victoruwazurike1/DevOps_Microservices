@@ -1,4 +1,4 @@
-[![<victoruwazurike1>](https://circleci.com/gh/victoruwazurike1/DevOps-Microservices.svg?style=svg)](https://github.com/victoruwazurike1/DevOps-Microservices)
+[![<victoruwazurike1>](https://circleci.com/gh/victoruwazurike1/DevOps_Microservices.svg?style=svg)](https://github.com/victoruwazurike1/DevOps_Microservices)
 
 ## Project Overview
 
